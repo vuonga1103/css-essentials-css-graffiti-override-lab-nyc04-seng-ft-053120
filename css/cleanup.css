@@ -5,10 +5,12 @@
 
 #wall .tag-2 {
   display: none;
+  background: white;
 }
 
 #wall .tag-3 {
   display: none;
+  background: white;
 }
 
 #parent .tag-4 {
