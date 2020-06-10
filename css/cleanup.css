@@ -7,7 +7,7 @@
   display: none;
 }
 
-#wall #tag-3 {
+#wall #tag-3 .slick wicked{
   display: none;
 }
 
@@ -15,11 +15,15 @@
   display: none;
 }
 
-#wall .parent #tag-5 {
+#wall .parent #tag-5 .slick{
   display: none;
 }
 
 #wall .parent #tag-6 {
+  display: none;
+}
+
+#wall .parent #tag-7 .slick {
   display: none;
 }
 
