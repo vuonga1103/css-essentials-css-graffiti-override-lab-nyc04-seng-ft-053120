@@ -1,17 +1,14 @@
 /* write your override styles here */
 #wall .tag-1 {
-  background-color: white;
   display: none;
 }
 
 #wall .tag-2 {
   display: none;
-  background: white;
 }
 
 #wall .tag-3 {
   display: none;
-  background: white;
 }
 
 #parent .tag-4 {
